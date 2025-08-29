@@ -83,7 +83,7 @@ Git/GitHub       ████████████████      80%
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 ### 🎓 Machine Learning Cohort - Bangkit Academy
 **2024 • Studi Independen**
@@ -91,7 +91,7 @@ Git/GitHub       ████████████████      80%
 Mempelajari dan mengimplementasikan machine learning serta deep learning dalam proyek capstone. Mengembangkan model klasifikasi berbasis TensorFlow dan mengintegrasikan ke dalam solusi digital yang komprehensif.
 
 </td>
-<td width="50%">
+<td width="40%">
 
 ```mermaid
 graph LR
@@ -213,7 +213,7 @@ Yogyakarta, ID
 </table>
 
 ### 📄 Resume
-[![Download CV](https://img.shields.io/badge/Download-CV-7C5CFF?style=for-the-badge&logo=file-pdf&logoColor=white)](https://github.com/frenskuy/frenskuy/blob/main/CV_Frenky_Update.pdf)
+[![Download CV](https://img.shields.io/badge/Download-CV-7C5CFF?style=for-the-badge&logo=file-pdf&logoColor=white)](https://github.com/frenskuy/frenskuy/blob/main/asset/CV%20FRENKY%20UPDATE.pdf)
 
 </div>
 
