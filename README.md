@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C5CFF&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;AI+Developer" alt="Typing SVG" />
 
-**DATA • MACHINE LEARNING • AI SOLUTIONS**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frenkyy)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frenskuy)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/frenskuyy/)
