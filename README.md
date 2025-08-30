@@ -81,6 +81,7 @@ Git/GitHub       ████████████████      80%
 
 ### 🎓 Machine Learning Cohort - Bangkit Academy
 **2024 • Studi Independen**
+
 Mempelajari dan mengimplementasikan machine learning serta deep learning dalam proyek capstone. Mengembangkan model klasifikasi berbasis TensorFlow dan mengintegrasikan ke dalam solusi digital yang komprehensif.
 
 
