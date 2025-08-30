@@ -79,28 +79,10 @@ Git/GitHub       ████████████████      80%
 
 ## 💼 Professional Experience
 
-<table>
-<tr>
-<td width="60%">
-
 ### 🎓 Machine Learning Cohort - Bangkit Academy
 **2024 • Studi Independen**
-
 Mempelajari dan mengimplementasikan machine learning serta deep learning dalam proyek capstone. Mengembangkan model klasifikasi berbasis TensorFlow dan mengintegrasikan ke dalam solusi digital yang komprehensif.
 
-</td>
-<td width="40%">
-
-```mermaid
-graph LR
-    A[Data] --> B[Preprocessing]
-    B --> C[Model Training]
-    C --> D[Deployment]
-```
-
-</td>
-</tr>
-</table>
 
 ### 👥 Ketua Departemen PSDM - BEM FAST
 **2024 • Kegiatan Organisasi**
